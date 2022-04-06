@@ -1,0 +1,4 @@
+config BR2_PACKAGE_AESD_HELLO_WORLD
+	bool "aesd-hello-world"
+	help
+	  Simple helloworld to understand flow till target (raspberry pi)
