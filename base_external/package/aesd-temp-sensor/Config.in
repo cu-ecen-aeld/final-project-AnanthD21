@@ -1,0 +1,4 @@
+config BR2_PACKAGE_AESD_TEMP_SENSOR
+        bool "aesd-temp-sensor"
+        help
+          code to read temperature sensor values from MLX90614

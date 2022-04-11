@@ -1,0 +1,4 @@
+config BR2_PACKAGE_AESD_SERVER_CLIENT_TEST
+        bool "aesd-server-client-test"
+        help
+          server client code

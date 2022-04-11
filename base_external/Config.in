@@ -1,2 +1,4 @@
 source "$BR2_EXTERNAL_assignment_base_PATH/package/aesd-assignments/Config.in"
 source "$BR2_EXTERNAL_assignment_base_PATH/package/aesd-hello-world/Config.in"
+source "$BR2_EXTERNAL_assignment_base_PATH/package/aesd-server-client-test/Config.in"
+source "$BR2_EXTERNAL_assignment_base_PATH/package/aesd-temp-sensor/Config.in"
