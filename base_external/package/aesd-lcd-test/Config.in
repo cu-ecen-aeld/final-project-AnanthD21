@@ -1,0 +1,4 @@
+config BR2_PACKAGE_AESD_LCD_TEST
+        bool "aesd-lcd-test"
+        help
+          code to check the working of LCD
