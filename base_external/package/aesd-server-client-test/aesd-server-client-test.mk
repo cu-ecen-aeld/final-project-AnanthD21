@@ -5,7 +5,7 @@
 ##############################################################
 
 #TODO: Fill up the contents below in order to reference final project git contents
-AESD_SERVER_CLIENT_TEST_VERSION = 'ae8979965c24307409aa246a58f7ed0c889cb19e'
+AESD_SERVER_CLIENT_TEST_VERSION = '8bdff5e4d07b8384ff4632163fd4c75f4c51cc61'
 # Note: Be sure to reference the *ssh* repository URL here (not https) to work properly
 # with ssh keys and the automated build/test system.
 # Your site should start with git@github.com:
