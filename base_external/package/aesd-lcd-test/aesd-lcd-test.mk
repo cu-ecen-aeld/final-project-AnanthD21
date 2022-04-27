@@ -5,7 +5,7 @@
 ##############################################################
 
 #TODO: Fill up the contents below in order to reference final project git contents
-AESD_LCD_TEST_VERSION = 1e79060003aea25e0aac72874e13899d75dff45e
+AESD_LCD_TEST_VERSION = 60ebb2417237b64628ac8b168274c5d621c20848
 # Note: Be sure to reference the *ssh* repository URL here (not https) to work properly
 # with ssh keys and the automated build/test system.
 # Your site should start with git@github.com:
