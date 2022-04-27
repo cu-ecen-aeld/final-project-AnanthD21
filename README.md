@@ -9,9 +9,9 @@ Click [here](https://github.com/cu-ecen-aeld/final-project-AnanthD21/wiki/Final-
 * Ananth Deshpande 
 * Abhishek Suryawanshi 
 * Karthik Baggaon Rajendra
-=======
+
 # Overview
-=======
+
 # buildroot-rpi
 
 We will be using rpi3
